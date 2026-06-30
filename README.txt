@@ -1,0 +1,1 @@
+Lucien Arkwright static website for GitHub Pages. Upload all files and folders in this ZIP to the repository root. Images 1.png to 9.png were cropped from the supplied reference sheet because individual PNG files were not separately attached in this conversation.
